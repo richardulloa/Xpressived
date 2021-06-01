@@ -20,15 +20,16 @@
             <h2><a href="#">Contactanos <br>
               </a></h2>
           </header>
-          <link rel="stylesheet" href="assets/css/contacte.css">
+          <link rel="stylesheet" href="assets/css/Contact.css">
           <form action="#" target="Contactanos" method="get" name="formDatosPersonales">
-            <label for="nombre">Nombre</label> <input name="nombre" id="nombre"
-              placeholder="Escribe tu nombre" type="text"> <label for="apellidos">Apellidos</label>
+            <label for="nombre">Nombre</label> <input name="nombre"
+
+              id="nombre" placeholder="Escribe tu nombre" type="text"> <label for="apellidos">Apellidos</label>
             <input name="apellidos" id="apellidos" placeholder="1r Apellido" type="text">
-            <label for="Mensaje">Mensaje</label> <input name="mensaje" id="Mensaje"
+            <label for="Mensaje">Mensaje</label> <input name="mensaje" id="Mensaje"
+
               placeholder="Mensaje" type="text">
-            <li style="background-color: white;"><span style="color: white;"><a
-                  href="Form.html">Enviar Datos </a></span></li>
+            <li><a href="Form.html">Enviar Datos </a></li>
           </form>
         </article>
       </div>
@@ -40,8 +41,8 @@
       <!-- Nav -->
       <nav id="nav">
         <ul>
-          <li class="current"><a href="#">Entradas</a></li>
-          <li><a href="Contacte.html">Contactanos</a></li>
+          <li><a href="index.html">Entradas</a></li>
+          <li class="current"><a href="#">Contactanos</a></li>
         </ul>
       </nav>
       <!-- Calendario -->
